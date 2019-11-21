@@ -10,8 +10,8 @@ Please cite the following reference (<a href="https://www.ncbi.nlm.nih.gov/pubme
 da Silva AD, Bitencourt-Ferreira G, de Azevedo WF Jr. Taba: A Tool to Analyze the Binding Affinity. J Comput Chem. 2020; 41(1): 69-73. <a href="https://doi.org/10.1002/jcc.26048">doi: 10.1002/jcc.26048</a>.   <a href="https://www.ncbi.nlm.nih.gov/pubmed/31410856">PubMed</a>  
 <p>&nbsp;</p>
 Taba is free software: you can redistribute it and/or modify it under the terms of the <a href="https://www.gnu.org/licenses/gpl.txt">GNU General Public License</a> as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. You can use a higher version as well.  
-
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <h3>How to install Taba</h3>
 You need to have Python 3.5 or 3.6 installed on your computer to run Taba. In addition, you also need NumPy (1.14.5*), Matplotlib, scikit-learn (0.19.1*), pyqt4 and SciPy (1.1.0*). <br>
 <font size="-1">*You can use a higher version as well.<font>
