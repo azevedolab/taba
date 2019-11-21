@@ -4,8 +4,7 @@
 
 Please cite the following reference (<a href="https://www.ncbi.nlm.nih.gov/pubmed/31410856">da Silva AD et al., 2019</a>) if the Taba program was useful.
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <a href="https://onlinelibrary.wiley.com/toc/1096987x/2020/41/1">
 <img src="https://azevedolab.net/resources/jcc25875-toc-0001-m.jpg" height=300 align=leff></a>
 <p>&nbsp;</p>
