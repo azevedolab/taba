@@ -1,6 +1,6 @@
 # Taba: Tool to Analyze Binding Affinity
 
-<h4>Taba Citation</h4>
+<h3>Taba Citation</h3>
 
 Please cite the following reference (<a href="https://www.ncbi.nlm.nih.gov/pubmed/31410856">da Silva AD et al., 2020</a>) if the Taba program was useful.
 
