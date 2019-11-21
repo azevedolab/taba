@@ -3,8 +3,14 @@
 <h4>Taba Citation</h4>
 
 Please cite the following reference (<a href="https://www.ncbi.nlm.nih.gov/pubmed/31410856">da Silva AD et al., 2019</a>) if the Taba program was useful.
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <a href="https://onlinelibrary.wiley.com/toc/1096987x/2020/41/1">
-<img src="https://azevedolab.net/resources/jcc25875-toc-0001-m.jpg" height=200></a>
+<img src="https://azevedolab.net/resources/jcc25875-toc-0001-m.jpg" height=300 align=leff></a>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 da Silva AD, Bitencourt-Ferreira G, de Azevedo WF Jr. Taba: A Tool to Analyze the Binding Affinity. J Comput Chem. 2019 <a href="https://doi.org/10.1002/jcc.26048">doi: 10.1002/jcc.26048</a>.   <a href="https://www.ncbi.nlm.nih.gov/pubmed/31410856">PubMed</a>  
 
 Taba is free software: you can redistribute it and/or modify it under the terms of the <a href="https://www.gnu.org/licenses/gpl.txt">GNU General Public License</a> as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. You can use a higher version as well.  
