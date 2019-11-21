@@ -33,7 +33,7 @@ This launches GUI window for Taba. That´s it, good Taba session. See help for a
 
 <h4>Linux</h4>
 
-Step 1. Download Taba (available here)
+Step 1. Download Taba (available <a href="https://github.com/azevedolab/taba/blob/master/TABA_dist.zip"> here</a>)
 
 Step 2. Unzip the zipped file (TABA_dist)
 
