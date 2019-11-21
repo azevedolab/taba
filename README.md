@@ -19,7 +19,7 @@ You need to have Python 3.5 or 3.6 installed on your computer to run Taba. In ad
 
 <h4>Windows</h4>
 
-Step 1. Download Taba (available here)
+Step 1. Download Taba (available <a href="https://github.com/azevedolab/taba/blob/master/TABA_dist.zip"> here</a>)
 
 Step 2. Unzip the zipped file (TABA_dist)
 
