@@ -15,7 +15,7 @@ Taba is free software: you can redistribute it and/or modify it under the terms 
 <p>&nbsp;</p>
 <h3>How to install Taba</h3>
 You need to have Python 3.5 or 3.6 installed on your computer to run Taba. In addition, you also need NumPy (1.14.5*), Matplotlib, scikit-learn (0.19.1*), pyqt4 and SciPy (1.1.0*). <br>
-<font size="-1">*You can use a higher version as well.<font>
+<font size="-1">*You can use higher versions as well.<font>
 
 <h4>Windows</h4>
 
