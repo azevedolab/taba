@@ -1,9 +1,8 @@
 # Taba: Tool to Analyze Binding Affinity
-<B>Message posted on January 30, 2021.</B>    
-
-Warning! Due to recent changes in the protein data bank, we had to update all programs that we developed. The download python scripts of Taba, SAnDReS, and SFSXplorer do not work anymore. I am working on the update of all these programs, and soon I will release new versions. Thank you very much for your patience.
-                                            Prof. Walter F. de Azevedo, Jr.
-                                            I am a free thinker influencing science and technology.
+ 
+Warning! We are currently updating Taba to integrate it with SAnDReS 2.0. We expect to release a new version of Taba by August/2023.
+                                            Prof. Walter F. de Azevedo, Jr. (Posted on February 22, 2023)
+                                            
 <h3>Taba Citation</h3>
 
 Please cite the following reference (<a href="https://www.ncbi.nlm.nih.gov/pubmed/31410856">da Silva AD et al., 2020</a>) if the Taba program was useful.
