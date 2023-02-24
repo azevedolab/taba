@@ -53,5 +53,5 @@ Taba was developed by Amauri Duarte and Dr. Walter F. Azevedo Jr. (walter@azeved
 
 Taba site: www.taba.bio.br
 
-Last update on December 04, 2019.
+Last update of the code on December 04, 2019.
 
