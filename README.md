@@ -1,6 +1,6 @@
 # Taba: Tool to Analyze Binding Affinity
  
-Warning! We are currently updating Taba to integrate it with SAnDReS 2.0. We expect to release a new version of Taba by August/2023.
+<B>Note:</B> We are currently updating Taba to integrate it with SAnDReS 2.0. Taba 2.0 will generate output files following SAnDReS format. We expect to release a new version of Taba by August/2023.
                                             Prof. Walter F. de Azevedo, Jr. (Posted on February 22, 2023)
                                             
 <h3>Taba Citation</h3>
