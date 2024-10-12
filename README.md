@@ -8,7 +8,7 @@
 Please cite the following reference (<a href="https://www.ncbi.nlm.nih.gov/pubmed/31410856">da Silva AD et al., 2020</a>) if the Taba program was useful.
 
 <a href="https://onlinelibrary.wiley.com/toc/1096987x/2020/41/1">
-<img src="https://azevedolab.net/resources/jcc25875-toc-0001-m.jpg" height=300 align=left title="da Silva AD, Bitencourt-Ferreira G, de Azevedo WF Jr. Taba: A Tool to Analyze the Binding Affinity. J Comput Chem. 2020; 41(1): 69-73."></a>
+<img src="https://onlinelibrary.wiley.com/cms/asset/4a12e57b-e61b-4be2-96f9-c6454b1336b3/jcc25875-toc-0001-m.jpg" height=300 align=left title="da Silva AD, Bitencourt-Ferreira G, de Azevedo WF Jr. Taba: A Tool to Analyze the Binding Affinity. J Comput Chem. 2020; 41(1): 69-73."></a>
 <p>&nbsp;</p>
 da Silva AD, Bitencourt-Ferreira G, de Azevedo WF Jr. Taba: A Tool to Analyze the Binding Affinity. J Comput Chem. 2020; 41(1): 69-73. <a href="https://doi.org/10.1002/jcc.26048">doi: 10.1002/jcc.26048</a>.   <a href="https://www.ncbi.nlm.nih.gov/pubmed/31410856">PubMed</a>  
 <p>&nbsp;</p>
