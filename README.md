@@ -46,7 +46,8 @@ Step 3. Copy TABA_dist directory to c:\
 
 Step 4. Open a command prompt window (Terminal) and type: cd c:\TABA_dist
 
-then type: python taba.py
+then type: 
+<pre>    python taba.py</pre>
 
 This launches GUI window for Taba. That´s it, good Taba session. See help for additional information about how to run Taba.
 
@@ -60,7 +61,8 @@ Step 3. Copy TABA_dist directory to the directory of your choice
 
 Step 4. Open a terminal and type cd /your personal directory/TABA_dist
 
-then type: python taba.py
+then type:
+<pre>    python taba.py</pre>
 
 This launches GUI window for Taba. That´s it, good Taba session. See help for additional information about how to run Taba.
 
