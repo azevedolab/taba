@@ -71,7 +71,7 @@ Taba was developed by Amauri Duarte and Dr. Walter F. Azevedo Jr. (walter@azeved
 
 Last update of the code on December 04, 2019.
 <br> </br>
-<h2><a href = "https://github.com/azevedolab/About-Me" title = "About Me Prof. Walter Filgueira de Azevedo, Jr."> About Me </a> </h2> 
+<h2><a href = "https://github.com/azevedolab/About-Me" title = "About Prof. Walter Filgueira de Azevedo, Jr."> About Me </a> </h2> 
 <a href="https://scholar.google.com/citations?user=HWwJXJUAAAAJ" title = "Link to Google Scholar">
 <img src="https://drive.usercontent.google.com/download?id=1rL_DWbMj6timTlYlhn9Hwm1acq8AU4QV&export=view&authuser=0" height=24 alt="Link to Google Scholar"></a>  
 <a href="https://www.scopus.com/authid/detail.uri?authorId=7006435557" title = "Link to Scopus">
